@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "147628181854",
+    "firebase_url": "https://device-hr-and-spo2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "device-hr-and-spo2",
+    "storage_bucket": "device-hr-and-spo2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147628181854:android:91229ef05df1bf021067cf",
+        "android_client_info": {
+          "package_name": "com.example.heart_rate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiU-Su-jDO02XVzlJb998Ww4PEV_1LxcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
