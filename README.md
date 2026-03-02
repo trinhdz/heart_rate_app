@@ -40,23 +40,12 @@ It is not intended for medical diagnosis or professional healthcare use.
 
 ## Features
 
-### User Authentication
-Login and registration flow with form validation.
-
-### Personal Information Management
-Input and update user health-related information.
-
-### Real-time Heart Rate Measurement
-Receive heart rate data from the MAX30102 sensor via ESP32.
-
-### On-device Heart Disease Risk Prediction
-Machine Learning model deployed using TensorFlow Lite for mobile inference.
-
-### Measurement History Tracking
-Store and review previous heart rate readings and prediction results.
-
-### Notification Display
-Display prediction alerts and system notifications within the application.
+- **User Authentication** – Login and registration flow with form validation
+- **Personal Information Management** – Input and update user health-related information
+- **Real-time Heart Rate Measurement** – Receive heart rate data from the MAX30102 sensor via ESP32
+- **On-device Heart Disease Risk Prediction** – Machine Learning model deployed using TensorFlow Lite for mobile inference
+- **Measurement History Tracking** – Store and review previous heart rate readings and prediction results
+- **Notification Display** – Display prediction alerts and system notifications within the application
 
 ## Hardware Components
 
