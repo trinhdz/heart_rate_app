@@ -17,26 +17,33 @@ It is not intended for medical diagnosis or professional healthcare use.
 
 ## Demo
 
-### Home Screen
-![Home](assets/demo/home.png)
+<p align="center">
+  <img src="assets/demo/home.png" alt="Home Screen" width="300"/>
+</p>
 
-### Login Screen
-![Login](assets/demo/login.png)
+<p align="center">
+  <img src="assets/demo/login.png" alt="Login Screen" width="300"/>
+</p>
 
-### Register Screen
-![Register](assets/demo/register.png)
+<p align="center">
+  <img src="assets/demo/register.png" alt="Register Screen" width="300"/>
+</p>
 
-### Personal Info Screen
-![Personal Info](assets/demo/personal_info.png)
+<p align="center">
+  <img src="assets/demo/personal_info.png" alt="Personal Info Screen" width="300"/>
+</p>
 
-### Heart Rate Measurement
-![Heart Rate](assets/demo/heart_rate.png)
+<p align="center">
+  <img src="assets/demo/heart_rate.png" alt="Heart Rate Measurement" width="300"/>
+</p>
 
-### Prediction Result
-![Prediction](assets/demo/predict.png)
+<p align="center">
+  <img src="assets/demo/predict.png" alt="Prediction Result" width="300"/>
+</p>
 
-### Notification / History
-![Notification](assets/demo/notification.png)
+<p align="center">
+  <img src="assets/demo/notification.png" alt="Notification / History" width="300"/>
+</p>
 
 ## Features
 
