@@ -1,16 +1,32 @@
-# heart_rate_app
+# appfoods
 
-A new Flutter project.
+Heart Disease Prediction Application Using Heart Rate Data
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a student-level AI application that predicts heart disease risk using heart rate data measured by the MAX30102 sensor.
 
-A few resources to get you started if this is your first Flutter project:
+The machine learning model was trained on Google Colab and converted to TensorFlow Lite (.tflite) format. The model is integrated into a Flutter mobile app for on-device prediction.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Screen
+![Home](assets/demo/home.png)
+
+### Login Screen
+![Login](assets/demo/login.png)
+
+### Register Screen
+![Register](assets/demo/register.png)
+
+### Personal Info Screen
+![Personal Info](assets/demo/personal_info.png)
+
+### Heart Rate Measurement
+![Heart Rate](assets/demo/heart_rate.png)
+
+### Prediction Result
+![Prediction](assets/demo/predict.png)
+
+### Notification / History
+![Notification](assets/demo/notification.png)

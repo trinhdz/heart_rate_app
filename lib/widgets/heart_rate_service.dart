@@ -5,7 +5,6 @@ class HeartRateListenerService {
   final DatabaseReference _rtDb = FirebaseDatabase.instance.ref('BPM');
   StreamSubscription<DatabaseEvent>? _sub;
 
-
   void startListening(void Function(num bpm) onBPM) {
     _sub?.cancel();
 
